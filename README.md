@@ -7,7 +7,7 @@ Using Python and data visualization libraries, I cleaned the raw data, explored 
 
 ---
 ## 📊 Project Presentation
-View the detailed business insights and findings in the presentation below:
+View the detailed business insights and findings in the presentation:
 [📄 View Project PPT](https://github.com/100rya-py/Customer-Churn-Data-Analysis/blob/main/Customer-Churn-Analysis-Presentation.pdf)
 
 ## 🛠️ Tech Stack & Tools
