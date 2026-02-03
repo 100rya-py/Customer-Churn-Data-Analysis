@@ -6,6 +6,9 @@ Welcome to my Customer Churn Analysis project! In this project, I analyzed a dat
 Using Python and data visualization libraries, I cleaned the raw data, explored key patterns, and derived actionable insights to help the business reduce attrition.
 
 ---
+## 📊 Project Presentation
+View the detailed business insights and findings in the presentation below:
+[📄 View Project PPT](https://github.com/100rya-py/Customer-Churn-Data-Analysis/blob/main/Customer-Churn-Analysis-Presentation.pdf)
 
 ## 🛠️ Tech Stack & Tools
 * **Python:** Core programming language.
